@@ -49,6 +49,6 @@ A Soc Analyst/ Dection Engineer
 
 ## Projects
 - Network Traffic Monitoring and Attack Detection
-- <a href="https://google.com">Detection Lab</a>
+- <a href="https://github.com/AibinuolaDamilola/Detection-Lab/blob/main/README.md">Detection Lab</a>
 - CloudUploader CLI
 
