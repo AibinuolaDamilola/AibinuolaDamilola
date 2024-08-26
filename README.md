@@ -12,7 +12,7 @@ A Soc Analyst/ Dection Engineer
 
 ###
 
-<p align="left">📚 I'm currently learning cloud computing and Python programming language<br>🎯 Goals: Seeking opportunities to apply my developing skills as SOC/Cloud security engineer<br>🎲 Fun fact: love helping others to find their footing in cybersecurity</p>
+<p align="left">📚 I'm currently learning cloud computing and security in web3<br>🎯 Goals: Seeking opportunities to apply my developing skills as SOC/Cloud security engineer<br>🎲 Fun fact: love helping others to find their footing in cybersecurity</p>
 
 
 
