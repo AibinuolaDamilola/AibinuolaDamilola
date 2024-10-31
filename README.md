@@ -50,7 +50,5 @@ A Soc Analyst/ Dection Engineer
 ## Projects
 - Network Traffic Monitoring and Attack Detection
 - <a href="https://github.com/AibinuolaDamilola/Detection-Lab/blob/main/README.md">Detection Lab</a>
-- SOC Automation
-- https://github.com/AibinuolaDamilola/SOC-Automation-with-AI
 - <a href="https://github.com/AibinuolaDamilola/SOC-Automation-with-AI/blob/main/README.md">SOC-Automation-with-AI</a>
 
