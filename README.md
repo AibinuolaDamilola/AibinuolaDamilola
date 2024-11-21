@@ -4,7 +4,7 @@ A Soc Analyst/ Dection Engineer
 ------------------
 ###
 
-<p align="left">As a SOC analyst looking to transition into a Cloud Security Engineer role, am not just about detecting and responding to security threats but leveraging my SOC and Cloud Security expertise to design and implement robust security solutions in cloud environments through Security Operations Excellence. </p>
+<p align="left">As SOC analyst looking to transition into a Cloud Security Engineer role, am not just about detecting and responding to security threats but leveraging my SOC and Cloud Security expertise to design and implement robust security solutions in cloud environments through Security Operations Excellence. </p>
 
 ###
 
