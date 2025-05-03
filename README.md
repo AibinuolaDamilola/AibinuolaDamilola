@@ -12,7 +12,7 @@ A Soc Analyst/ Dection Engineer
 
 ###
 
-<p align="left">📚 I'm currently learning cloud computing and security in web3<br>🎯 Goals: Seeking opportunities to apply my developing skills as SOC/Cloud security engineer<br>🎲 Fun fact: love helping others to find their footing in cybersecurity</p>
+<p align="left">📚 I'm currently doing projects on Cloudsecurity and AI security<br>🎯 Goals: Seeking opportunities to apply my skills as Cloud security engineer/ AI security engineer<br>🎲 Fun fact: love helping others to find their footing in cybersecurity</p>
 
 
 
@@ -48,8 +48,7 @@ A Soc Analyst/ Dection Engineer
 </div>
 
 ## Projects
-- Network Traffic Monitoring and Attack Detection
-- <a href="https://github.com/AibinuolaDamilola/Detection-Lab/blob/main/README.md">Detection Lab</a>
+- <a href="https://github.com/AibinuolaDamilola/LLM-API-Security/blob/main/README.md">Securing AI Agent</a>
 - <a href="https://github.com/AibinuolaDamilola/SOC-Automation-with-AI/blob/main/README.md">SOC-Automation-with-AI</a>
 - <a href="https://github.com/AibinuolaDamilola/IAM & Logging/main/README.md">IAM & Logging</a>
 
