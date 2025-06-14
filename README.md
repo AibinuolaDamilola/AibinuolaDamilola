@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm  Damilola Aibinuola
 =======================================================================================================================================
-A Soc Analyst/ Dection Engineer
+An AI Cloud Security Engineer with a Soc Expereince
 ------------------
 ###
 
-<p align="left">As SOC analyst looking to transition into Cloud Security Engineer role, am not just about detecting and responding to security threats but leveraging my SOC and Cloud Security expertise to design and implement robust security solutions in cloud environments through Security Operations Excellence. </p>
+<p align="left">As an AI Cloud Security Engineer foe AI Startups, am not just about detecting and responding to security threats but leveraging my SOC and Cloud Security expertise to design and implement robust security solutions to secure Model and infrastructre from Day 1 without slowing dow Dev team or failing complaince </p>
 
 ###
 
@@ -12,7 +12,7 @@ A Soc Analyst/ Dection Engineer
 
 ###
 
-<p align="left">📚 I'm currently doing projects on Cloudsecurity and AI security<br>🎯 Goals: Seeking opportunities to apply my skills as Cloud security engineer/ AI security engineer<br>🎲 Fun fact: love helping others to find their footing in cybersecurity</p>
+<p align="left">📚 I'm currently doing projects on Cloudsecurity and AI security<br>🎯 Goals: Seeking opportunities to apply my skills as a Cloud security engineer/ AI security engineer<br>🎲 Fun fact: love helping others to find their footing in cybersecurity</p>
 
 
 
