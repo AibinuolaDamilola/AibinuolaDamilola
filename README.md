@@ -75,7 +75,7 @@ An AI Cloud Security Engineer/DevSecOps with a Soc Expereince
 - <a href="https://github.com/AibinuolaDamilola/SecureFinance-MultiCloud-CSPM/blob/main/README.md">SecureFinance: Multi-Cloud Security Posture Management</a>
 - <a href="https://github.com/AibinuolaDamilola/LLM-API-Security/blob/main/README.md">Securing AI Agent</a>
 - <a href="https://github.com/AibinuolaDamilola/aws-dlp-lambda-automation/blob/main/README.md">aws-dlp-lambda-automation</a>
-- <a href="https://github.com/AibinuolaDamilola/Securing-AI-Workload-on-AWS--Phase-1-IAM-Logging-/main/README.md">Securing-AI-Workload-on-AWS--Phase-1-IAM-Logging-</a>
+- <a href="https://github.com/AibinuolaDamilola/SOC-Automation-with-AI/main/README.md">SOC-Automation-with-AI</a>
 - <a href="https://github.com/AibinuolaDamilola/ContainerVault-K8s-Security/blob/main/README.md">ContainerVault: Kubernetes Security Hardening</a>
 - <a href="https://github.com/AibinuolaDamilola/ZeroTrust-Identity-Architecture/blob/main/README.md">ZeroTrust: Identity-Centric Security Architecture</a>
 
