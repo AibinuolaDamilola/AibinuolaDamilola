@@ -72,7 +72,7 @@ An AI Cloud Security Engineer/DevSecOps with a Soc Expereince
 </div>
 
 ## Projects
-- <a href="https://github.com/AibinuolaDamilola/SecureFinance-MultiCloud-CSPM/blob/main/README.md">SecureFinance: Multi-Cloud Security Posture Management</a>
+- <a href="https://github.com/AibinuolaDamilola/SecureFinance-MultiCloud-CSPM/tree/main">SecureFinance: Multi-Cloud Security Posture Management</a>
 - <a href="https://github.com/AibinuolaDamilola/LLM-API-Security/blob/main/README.md">Securing AI Agent</a>
 - <a href="https://github.com/AibinuolaDamilola/aws-dlp-lambda-automation/blob/main/README.md">aws-dlp-lambda-automation</a>
 - <a href="https://github.com/AibinuolaDamilola/SOC-Automation-with-AI/main/README.md">SOC-Automation-with-AI</a>
